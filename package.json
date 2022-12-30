@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jeremyguan1/mongodb#readme",
   "dependencies": {
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "mongoose": "^5.8.0",
     "nodemon": "^2.0.1"
   }
